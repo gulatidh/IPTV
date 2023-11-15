@@ -6,8 +6,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Sony",Sony PAL
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
 #EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony",Sony AATH
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony",Sony MAX
@@ -39,16 +38,14 @@ https://dai.google.com/linear/hls/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://dai.google.com/linear/hls/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Sony",Sony PAL
 https://dai.google.com/linear/hls/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony",Sony YAY
-https://dai.google.com/linear/hls/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
 #EXTINF:-1 tvg-id="sony1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony",Sony AATH
 https://dai.google.com/linear/hls/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony",Sony MAX HD
 https://dai.google.com/linear/hls/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony",Sony MAX
 https://dai.google.com/linear/hls/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony",Sony WAH
-https://dai.google.com/linear/hls/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
 #EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony",Sony MAX2
 https://dai.google.com/linear/hls/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony",Sony PIX HD
@@ -73,8 +70,7 @@ https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony",Sony TEN 4 HD
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
 #EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
@@ -127,8 +123,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Colors",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Colors",VH1
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/VH1_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/900709.png" group-title="Colors",Nick HD Plus
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Colors",Nick Junior
