@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
 
-#EXTINF:-1 tvg-id="REPUBLIC BHARAT" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="Hindi NEWS Channel",REPUBLIC BHARAT
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="Hindi NEWS Channel",Rep BHARAT 
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651431600&h=f66a60a21c8b02a8690d98c6c5fda5bb
 #EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/poster_20211202_231541.jpg"  group-title="Hindi NEWS Channel",BOLLYWOOD PRIME (US)
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
