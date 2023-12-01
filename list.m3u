@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
-
 #EXTINF:-1 tvg-id="REPUBLIC BHARAT" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="NEWS",REPUBLIC BHARAT 
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651431600&h=f66a60a21c8b02a8690d98c6c5fda5bb
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png"  group-title="NEWS",AAJ TAK (IN)
@@ -30,8 +29,6 @@ https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="TV Shows",SONY YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony TEN 1 SD
@@ -93,4 +90,3 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-sam
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",HUNGAMA CARTOON
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
-
