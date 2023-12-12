@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
-
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://en.wikipedia.org/wiki/File:Aaj_Tak_Logo.png"  group-title="NEWS",AAJ TAK (IN)
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="ABP NEWS" tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg"  group-title="NEWS",ABP NEWS (IN)
