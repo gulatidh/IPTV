@@ -93,19 +93,73 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="Kids",Sonic Nickelodeon
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Fashion",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery SCIENCE
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",HUNGAMA CARTOON
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTM3U
+#EXTINF:0,IND - 9X Tashan HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72877
+#EXTINF:0,PAK - APNA Stage Drama
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72594
+#EXTINF:0,IND - B4U MOVIES
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58354
+#EXTINF:0,IND - B4U Movies UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69443
+#EXTINF:0,IND - B4U PLUS UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69445
+#EXTINF:0,IND - BBO
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73026
+#EXTINF:0,IND - Bolly Wood Premier
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73020
+#EXTINF:0,IND - Clasic Bollywood
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73019
+#EXTINF:0,IND - COLORS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69864
+#EXTINF:0,IND - COLORS HINDI DUB
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73014
+#EXTINF:0,IND - Colors UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69450
+#EXTINF:0,IND - Discovery HD World (jio)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71169
+#EXTINF:0,IND - JUS HINDI HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71154
+#EXTINF:0,IND - MTV PLUS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58363
+#EXTINF:0,IND - MUSIC INDIA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58385
+#EXTINF:0,IND - NAT GEO HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73022
+#EXTINF:0,IND - NEWS 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58389
+#EXTINF:0,IND - Nick Hindi HD (jio)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71166
+#EXTINF:0,IND - Rishtey CinePlex UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58448
+#EXTINF:0,IND - SHOW BOX
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72601
+#EXTINF:0,IND - STAR Bharat INDIA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73023
+#EXTINF:0,IND - Star Bharat UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69440
+#EXTINF:0,IND - STAR GOLD HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67232
+#EXTINF:0,IND - STAR GOLD HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/69850
+#EXTINF:0,IND - STAR PLUS 
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67236
+#EXTINF:0,IND - ZEE Action HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67266
+#EXTINF:0,IND - ZEE CINEMA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58423
+#EXTINF:0,IND - ZEE CINEMA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58199
+#EXTINF:0,IND - Zee Cinema UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67276
+#EXTINF:0,IND - ZING
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58196
+#EXTINF:0,IND - ZOOM
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58441
+
